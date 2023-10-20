@@ -1,0 +1,15 @@
+C:\Users\zelib\OneDrive\Рабочий стол\dz_4_Csharp_func\bin\Debug\net6.0\dz_4_Csharp_func.exe
+C:\Users\zelib\OneDrive\Рабочий стол\dz_4_Csharp_func\bin\Debug\net6.0\dz_4_Csharp_func.deps.json
+C:\Users\zelib\OneDrive\Рабочий стол\dz_4_Csharp_func\bin\Debug\net6.0\dz_4_Csharp_func.runtimeconfig.json
+C:\Users\zelib\OneDrive\Рабочий стол\dz_4_Csharp_func\bin\Debug\net6.0\dz_4_Csharp_func.dll
+C:\Users\zelib\OneDrive\Рабочий стол\dz_4_Csharp_func\bin\Debug\net6.0\dz_4_Csharp_func.pdb
+C:\Users\zelib\OneDrive\Рабочий стол\dz_4_Csharp_func\obj\Debug\net6.0\dz_4_Csharp_func.csproj.AssemblyReference.cache
+C:\Users\zelib\OneDrive\Рабочий стол\dz_4_Csharp_func\obj\Debug\net6.0\dz_4_Csharp_func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zelib\OneDrive\Рабочий стол\dz_4_Csharp_func\obj\Debug\net6.0\dz_4_Csharp_func.AssemblyInfoInputs.cache
+C:\Users\zelib\OneDrive\Рабочий стол\dz_4_Csharp_func\obj\Debug\net6.0\dz_4_Csharp_func.AssemblyInfo.cs
+C:\Users\zelib\OneDrive\Рабочий стол\dz_4_Csharp_func\obj\Debug\net6.0\dz_4_Csharp_func.csproj.CoreCompileInputs.cache
+C:\Users\zelib\OneDrive\Рабочий стол\dz_4_Csharp_func\obj\Debug\net6.0\dz_4_Csharp_func.dll
+C:\Users\zelib\OneDrive\Рабочий стол\dz_4_Csharp_func\obj\Debug\net6.0\refint\dz_4_Csharp_func.dll
+C:\Users\zelib\OneDrive\Рабочий стол\dz_4_Csharp_func\obj\Debug\net6.0\dz_4_Csharp_func.pdb
+C:\Users\zelib\OneDrive\Рабочий стол\dz_4_Csharp_func\obj\Debug\net6.0\dz_4_Csharp_func.genruntimeconfig.cache
+C:\Users\zelib\OneDrive\Рабочий стол\dz_4_Csharp_func\obj\Debug\net6.0\ref\dz_4_Csharp_func.dll
